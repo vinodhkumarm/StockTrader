@@ -1,0 +1,3 @@
+G:\Trading_Stock_Market_Scripts\YahooBoombergGoogleDataStore\YahooBoombergGoogleDataStore\bin\Debug\YahooBoombergGoogleDataStore.exe.config
+G:\Trading_Stock_Market_Scripts\YahooBoombergGoogleDataStore\YahooBoombergGoogleDataStore\obj\Debug\YahooBoombergGoogleDataStore.csprojResolveAssemblyReference.cache
+G:\Trading_Stock_Market_Scripts\StockTrader\YahooBoombergGoogleDataStore\bin\Debug\YahooBoombergGoogleDataStore.exe.config
